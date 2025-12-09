@@ -571,6 +571,7 @@ default
                     send_anim_info(TRUE);
                     memory();
                 }
+
                 return;
             }
             if (num == 90301)
