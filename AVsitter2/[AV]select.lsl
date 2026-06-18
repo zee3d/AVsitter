@@ -192,8 +192,8 @@ default
             {
                 if (data == EOF)
                 {
-                    integer i;
                     Out(0, "Ready");
+                    return;
                 }
                 else
                 {
